@@ -1,0 +1,35 @@
+{
+    "beam_diameter": "1.5",
+    "cleanup_duration": 30.0,
+    "commit": "904c141a6aa78caa9aec770c33495c54a89d69af",
+    "extract_device": "Fusions CO2",
+    "extract_duration": 45.0,
+    "extract_units": "watts",
+    "extract_value": 0.27,
+    "grain_polygons": [
+        "Q1lPN1RwcFpCVUl4QUNvQU1BQXJBREFBTEFBdkFDMEFMZ0F1QUMwQUxnQXNBQzRBS3dBdUFDb0FMZ0FwQUM4QUtBQXdBQ2dBTVFBb0FESUFKd0F6QUNjQU5BQW5BRFVBS0FBMkFDa0FOZ0FxQURZQUt3QTJBQ3dBTlFBdEFEVUFMZ0EwQUM4QU13QXdBRE1BTVFBekFESUFNZ0F6QURJQU5BQXhBRFVBTVFBMUFEQUFOUUF2QURZQUxnQTJBQzBBTmdBc0FEWUFLd0ExQUNvQU5BQXFBRE1BS2dBeUFDb0E=",
+        "Q1lPN1RwcFpCVUl4QUNvQU1BQXJBREFBTEFBdkFDMEFMZ0F1QUMwQUxnQXNBQzRBS3dBdUFDb0FMZ0FwQUM4QUtBQXdBQ2dBTVFBb0FESUFKd0F6QUNjQU5BQW5BRFVBS0FBMkFDa0FOZ0FxQURZQUt3QTJBQ3dBTlFBdEFEVUFMZ0EwQUM4QU13QXdBRE1BTVFBekFESUFNZ0F6QURJQU5BQXhBRFVBTVFBMUFEQUFOUUF2QURZQUxnQTJBQzBBTmdBc0FEWUFLd0ExQUNvQU5BQXFBRE1BS2dBeUFDb0E="
+    ],
+    "light_value": 0.0,
+    "load_holder": "221-hole",
+    "load_name": "C0083",
+    "measured_response": null,
+    "pattern": "dragonflypeakpattern_br1-221-hole.lp",
+    "positions": [
+        {
+            "is_degas": false,
+            "position": 82,
+            "x": null,
+            "y": null,
+            "z": null
+        }
+    ],
+    "ramp_duration": 5.0,
+    "ramp_rate": 0.0,
+    "requested_output": null,
+    "setpoint_stream": null,
+    "snapshots": [],
+    "tray": "",
+    "videos": [],
+    "weight": 0.0
+}
