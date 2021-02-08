@@ -68,72 +68,12 @@
         "value": 1.001915555651078
     },
     "CDD": {
-        "error": 0.00128552800094418,
-        "fit": "Linear",
-        "references": [
-            {
-                "exclude": "ok",
-                "record_id": "a-02-J-1841",
-                "uuid": "bfa20599-c83d-420f-8315-5b1f5519ae9c"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "a-02-J-1842",
-                "uuid": "09758406-5c85-4339-b09a-b35a98d494ad"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "a-02-J-1843",
-                "uuid": "220d80f9-f409-4a17-b2fb-ed4a1d300df4"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "a-02-J-1844",
-                "uuid": "bd4c679f-5128-48ee-ae12-3a183b1c8661"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "a-02-J-1845",
-                "uuid": "28fe21e0-b45a-4806-bd34-6633b961cc92"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "a-02-J-1846",
-                "uuid": "1ba2572d-0a66-4b76-86fc-3f2b70717471"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "a-02-J-1847",
-                "uuid": "aeac4a17-89a5-4b32-a8c7-823dc2b351b5"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "a-02-J-1848",
-                "uuid": "f27d783e-d0e0-44c3-987e-f041ef08514c"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "a-02-J-1849",
-                "uuid": "02b3b54e-7ecf-4994-affd-8b26f3c99f0a"
-            },
-            {
-                "exclude": "ok",
-                "record_id": "a-02-J-1850",
-                "uuid": "00bf50ca-a9d5-44e8-8d84-fea08e4d13b0"
-            },
-            {
-                "exclude": "omit",
-                "record_id": "a-02-J-1851",
-                "uuid": "d12c1f81-6ae2-42ad-95d5-9aa22435f291"
-            },
-            {
-                "exclude": "omit",
-                "record_id": "a-02-J-1852",
-                "uuid": "7aa2c855-52c5-4717-a183-9ab89557e8b7"
-            }
-        ],
+        "error": 0.0012768273038142703,
+        "fit": "bulk_edit",
+        "references": "",
         "reviewed": true,
-        "value": 0.9993895625928699
+        "scalar": 0.9932318104906938,
+        "value": 0.9926255046396187
     },
     "H1": {
         "error": 1e-20,
