@@ -1,6 +1,6 @@
 {
     "AX": {
-        "error": 7.967378686396775e-05,
+        "error": 7.963481147676674e-05,
         "fit": "Weighted Mean",
         "references": [
             {
@@ -106,7 +106,7 @@
         ],
         "reviewed": true,
         "standard_ratio": 6.600975,
-        "value": 1.000675835238204
+        "value": 0.999943832179069
     },
     "CDD": {
         "error": 0.0011175936976636157,
